@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mybirthdaycard</string>
+    <string name="todo">TODO</string>
+    <string name="msg">Happy birthday , my friend !</string>
+    <string name="from">from,eya </string>
+</resources>
